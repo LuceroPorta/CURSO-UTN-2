@@ -1,0 +1,32 @@
+.cuadradouno{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.cuadradodos{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.cuadradotres{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.contenedor{
+    display: flex;
+    align-items: flex-end;
+}
